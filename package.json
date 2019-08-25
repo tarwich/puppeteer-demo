@@ -1,0 +1,27 @@
+{
+  "name": "puppeteer-demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tarwich/puppeteer-demo.git"
+  },
+  "keywords": [],
+  "author": "Samuel Dillow",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tarwich/puppeteer-demo/issues"
+  },
+  "homepage": "https://github.com/tarwich/puppeteer-demo#readme",
+  "dependencies": {
+    "puppeteer": "^1.19.0"
+  },
+  "prettier": {
+    "singleQuote": true,
+    "trailingComma": "es5"
+  }
+}
